@@ -114,3 +114,10 @@ def mostrar_scripts(ruta_sub_carpeta):
 if __name__ == "__main__":
     mostrar_menu()
 
+
+    # Función que lista todas las tareas pendientes
+    def listar_tareas():
+        # Aquí podrías agregar validaciones o mejoras
+        print("Lista de tareas:")
+
+
